@@ -77,7 +77,7 @@ export function App() {
   return (
       <main>
         <header className="flex h-12 items-center">
-          <a href="#" className="bg-black p-4 text-white">
+          <a href="https://www.github.com/samsepi0ldev/shopping-cart" className="bg-black p-4 text-white">
             <Github />
           </a>
           <Popover.Root open={open} onOpenChange={setOpen}>
