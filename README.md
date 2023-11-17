@@ -6,7 +6,7 @@
 
 <!-- ## Basic Overview - [Live Demo](https://react-shopping-cart-67954.firebaseapp.com/) -->
 
-✈️ [Me siga no LinkedIn](https://www.linkedin.com/in/samsepi0ldev/)
+✈️ [Me siga no LinkedInnpn](https://www.linkedin.com/in/samsepi0ldev/)
 
 Este protótipo simples de carrinho de compras mostra como React com Typescript, React hooks, react Context e Styled Components podem ser usados para construir uma experiência de usuário amigável com atualizações visuais instantâneas e código escalonável em aplicativos de comércio eletrônico.
 
